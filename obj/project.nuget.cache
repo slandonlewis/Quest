@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pGw1KhlxA2LKXnguBijigjdCDUED974Oz+A1qfJUYmVhYzBoHR5uoelYRFIEZdIsfsEfgW39ys0XMDV0j95ZTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\terro\\workspace\\csharp\\Quest\\Quest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
